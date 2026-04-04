@@ -1,32 +1,40 @@
 {
   "version": 1,
-  "base_track": "生命体",
-  "base_artist": "星野 源",
-  "createdAt": "2026-02-12T02:14:25.660779Z",
+  "base_track": "星野源 - 生命体",
+  "base_artist": "星野源",
+  "createdAt": "2026-04-04T09:04:19.323282Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "生命体",
+      "title": "01. 星野源 - ドラえもん",
       "artist": "星野源",
       "has_synced": true,
-      "path": "select/01_生命体_星野源.lrc"
+      "path": "select/01_01._星野源_-_ドラえもん_星野源.lrc"
     },
     {
       "id": "lrclib_2",
       "source": "lrclib",
-      "title": "生命体",
-      "artist": "Gen Hoshino",
+      "title": "02. 星野源 - ここにいないあなたへ",
+      "artist": "星野源",
       "has_synced": true,
-      "path": "select/02_生命体_Gen_Hoshino.lrc"
+      "path": "select/02_02._星野源_-_ここにいないあなたへ_星野源.lrc"
     },
     {
       "id": "lrclib_3",
       "source": "lrclib",
-      "title": "生命体",
-      "artist": "星野源",
+      "title": "Into the Sun feat. 星野源, Stephen Malkmus & Pi Ja Ma",
+      "artist": "Superorganism",
       "has_synced": true,
-      "path": "select/03_生命体_星野源.lrc"
+      "path": "select/03_Into_the_Sun_feat._星野源,_Stephen_Malkmus_&_Pi_Ja_Ma_Superorganism.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "星野源 – 恋 (Official Video)",
+      "artist": "星野源",
+      "has_synced": false,
+      "path": "select/04_星野源_–_恋_(Official_Video)_星野源.txt"
     },
     {
       "id": "petitlyrics_1",
